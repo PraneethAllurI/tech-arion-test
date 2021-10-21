@@ -1,0 +1,15 @@
+.grid__container {
+   
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 10px;
+}
+.grid__item {
+    border: 1px solid crimson;
+    padding: 20px;
+    font-size: 20px;
+    width: 600px;
+    height: 150px;
+}
